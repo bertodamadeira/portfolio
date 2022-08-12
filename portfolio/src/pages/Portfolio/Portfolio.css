@@ -1,0 +1,51 @@
+.portfolio_container{
+    background-color: var(--component-color);
+    border-radius: 6px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+    min-height: 600px;
+}
+
+.portfolio_summary_container{
+    padding: 15px;
+    padding-bottom: 0;
+}
+
+.portfolio_technologies{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 15px;
+}
+.portfolio_technologies_column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: center;
+    width: 50%;
+}
+
+.portfolio_container li{
+    font-size: 13px;
+    font-weight: 500 !important;
+}
+
+.portfolio_title{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold !important;
+    color: var(--main-color);
+    padding: 15px 0;
+}
+
+.portfolio_technologies_column .portfolio_title{
+    text-align: left;
+    padding-left: 30%;
+}
+
+.portfolio_technologies_column ul{
+    padding-left: 35%;
+}

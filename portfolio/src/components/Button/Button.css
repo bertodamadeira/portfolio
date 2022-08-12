@@ -1,0 +1,60 @@
+.btn{
+    background-color:var(--main-color) !important;
+	border-radius:50px !important;
+	border: 0 !important;
+	cursor:pointer;
+	color:black;
+	font-size:14px !important;
+    font-weight: 500;
+    padding: 1px 12px !important;
+    line-height: 35px !important;
+    min-width: 100px !important;
+    outline: none !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 1s;
+    display: flex !important;
+    justify-content: row !important;
+}
+.btn:hover {
+	background-color:var(--main-color);
+}
+
+.btn_icon_container{
+    color: #000 !important;
+    background-color: #fff !important;
+    border-radius: 50px !important;
+    height: 27px !important;
+    width: 27px !important;
+    line-height: 29px !important;
+    text-align: center !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: 1s !important;
+}
+
+.btn_icon_container > .MuiSvgIcon-root{
+    font-size: 16px !important;
+    transition: 1s !important;
+}
+
+
+.btn_text{
+    font-size: 14px !important;
+    text-transform: none !important;
+    text-align: center !important;
+    width: 100%;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.btn_text_download{
+    text-decoration: none;
+    color: inherit;
+    width: 100%;
+    height: 100%;
+}
+
+.btn_text_download:hover{
+    color: inherit;
+}

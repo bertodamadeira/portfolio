@@ -1,0 +1,44 @@
+*{
+  margin:0;
+  font-family:Arial;
+}
+
+:root{
+  --main-color: #2fff7f;
+  --background-color: #1c1c1c;
+  --component-color: #333333;
+}
+
+body {
+  color: white !important;
+  background-color: var(--background-color) !important;
+}
+
+/* Margins and Paddings */
+.top_60{
+  margin-top: 60px !important;
+}
+
+@media (max-width: 991px) {
+  .top_60{
+    margin-top: 30px !important;
+  }
+}
+
+.App{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #2f74c0;
+  font-family: "PT Sans", cursive;
+}
+
+.profile_container{
+  margin-top: 60px !important;
+}
+
+li::marker{
+  color:var(--main-color) !important;
+}
