@@ -70,7 +70,7 @@ export const data: any = {
                 "Correção de erros aplicacionais;\n" +
                 "Desenvolvimento de novas funcionalidades nos portais existentes;\n" +
                 "Desenvolvimento de novos portais internos\n" +
-                "Testes integrados;\n"
+                "Testes integrados;"
         },
     ],
     operatingSystems: [
@@ -92,6 +92,7 @@ export const data: any = {
         "Visual Studio 2008",
         "Visual Studio 2012",
         "Visual Studio 2019",
+        "Visual Studio Code",
         "ULS Viewer",
     ],
     languagesAndTools: [
@@ -104,6 +105,7 @@ export const data: any = {
         "C++",
         "Python",
         "React",
+        "Angular"
     ],
     databases: [
         "SQL Management Studio 18",
