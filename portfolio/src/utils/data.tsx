@@ -28,39 +28,24 @@ export const data: any = {
     studies: [
         {
             key: 1,
+            title: "TECNOLOGIAS E PROGRAMAÇÃO DE SISTEMAS DE INFORMAÇÃO – Universidade da Madeira",
+            duration: "2018 – 2020 – Madeira, Portugal",
+            summary: "Criação de ecrãs em VUE para o evento MIUT 2020",
+        },
+        {
+            key: 2,
             title: "TÉCNICO PROFISSIONAL DE AUDIOVISUAIS – Escola Profissional Cristóvão Colombo ",
             duration: "2011 – 2014 – Madeira, Portugal",
             summary: "Destaque em Pós-Produção e Manipulação de imagem;\n" +
                 "Participação em festivais de cinema;\n" +
                 "Várias experiências em estúdio e no exterior.",
-        },
-        {
-            key: 2,
-            title: "TECNOLOGIAS E PROGRAMAÇÃO DE SISTEMAS DE INFORMAÇÃO – Universidade da Madeira",
-            duration: "2018 – 2020 – Madeira, Portugal",
-            summary: "Criação de ecrãs em VUE para o evento MIUT 2020",
         }
     ],
     work: [
 
         {
             key: 1,
-            title: "ESTÁGIO EM TÉCNICO DE AUDIOVISUAIS – Marítimo Tv ",
-            duration: "01/2014 – 02/2014 – Madeira, Portugal",
-            summary:
-                "Gravação de Voz-Off;\n" +
-                "Gravação de video (dos treinos do clube e do estabelecimento);\n" +
-                "Pós-Produção.",
-        },
-        {
-            key: 2,
-            title: "ESTÁGIO DE WEBDESIGN – PCN Informática",
-            duration: "02/2014 – 03/2014 – Madeira, Portugal",
-            summary: "Criação de Banners e manipulação de imagem para o grupo online da companhia.",
-        },
-        {
-            key: 3,
-            title: "ENGENHEIRA DE APLICAÇÕES – Unipartner IT Services",
+            title: "ENGENHERIA DE APLICAÇÕES – Unipartner IT Services",
             duration: "17/02/2020 – ATUAL – Madeira, Portugal",
             summary:
                 "Integração na equipa de Gestão Aplicacional de SharePoint e K2.\n" +
@@ -72,6 +57,21 @@ export const data: any = {
                 "Desenvolvimento de novos portais internos\n" +
                 "Testes integrados;"
         },
+        {
+            key: 2,
+            title: "ESTÁGIO DE WEBDESIGN – PCN Informática",
+            duration: "02/2014 – 03/2014 – Madeira, Portugal",
+            summary: "Criação de Banners e manipulação de imagem para o grupo online da companhia.",
+        },
+        {
+            key: 3,
+            title: "ESTÁGIO EM TÉCNICO DE AUDIOVISUAIS – Marítimo Tv ",
+            duration: "01/2014 – 02/2014 – Madeira, Portugal",
+            summary:
+                "Gravação de Voz-Off;\n" +
+                "Gravação de video (dos treinos do clube e do estabelecimento);\n" +
+                "Pós-Produção.",
+        }
     ],
     operatingSystems: [
         "Windows 10",
@@ -105,7 +105,9 @@ export const data: any = {
         "C++",
         "Python",
         "React",
-        "Angular"
+        "Angular",
+        ".NET",
+        ".NET Core"
     ],
     databases: [
         "SQL Management Studio 18",
