@@ -1,0 +1,66 @@
+REACT JS PORTFOLIO
+
+[To-do] Pinboard 
+Link: https://pinboard.opera.com/view/ebcae1d1-7370-4693-af4c-6fae623179c6
+Tempo: 15 min 
+
+[Design]
+https://prnt.sc/iOkCta4TKZZM
+
+
+Part I: Setting everything up
+Link: https://www.youtube.com/watch?v=N2-RWOEfdcU&list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1&index=1
+Tempo: 55min + 55min
+
+Part II: Setting everything up
+Link: https://www.youtube.com/watch?v=G_1_VEwXkQk&list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1&index=2
+Tempo: 
+
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+PROGRAMMING
+
+----------------------------------------------------------------
+[0] 
+Doc/Tutorial: 
+How:
+What:
+Why:
+When:
+
+
+----------------------------------------------------------------
+[1] Yarn Start
+Doc/Tutorial: 
+How: Youtube and Tutorials. With typescript, you can use the following syntax
+What: PORTFOLIO
+Why: CV
+When:
+
+Create (typescript))
+https://create-react-app.dev/docs/adding-typescript/
+
+Typescript
+yarn create-react-app my-app --template typescript
+https://classic.yarnpkg.com/en/docs/cli/run
+
+
+----------------------------------------------------------------
+[2] React router Dom
+Doc/Tutorial:  
+How:
+What: yarn add react-router-dom
+Why:
+When:
+
+----------------------------------------------------------------
+[3] Folders
+Doc/Tutorial: https://create-react-app.dev/docs/importing-a-component/
+How:
+What: Components 
+Why:
+When:
+
+
+
